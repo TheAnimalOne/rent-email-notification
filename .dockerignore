@@ -1,0 +1,6 @@
+venv/
+
+.dockerignore
+.gcloudignore
+
+.gitignore
