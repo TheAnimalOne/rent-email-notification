@@ -7,6 +7,7 @@ import datetime
 from dotenv import load_dotenv
 
 load_dotenv()
+logging.basicConfig()
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.INFO)
 
